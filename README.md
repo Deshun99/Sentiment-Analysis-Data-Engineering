@@ -1,5 +1,3 @@
-# Sentiment-Analysis-Data-Engineering
-
 # Singapore Stock Market Data Warehouse
 
 ## Overview
